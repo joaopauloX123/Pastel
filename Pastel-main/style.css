@@ -1,0 +1,16 @@
+body {
+  background-color: #993FDF;
+  }
+    header {
+    background-color: #993FDF;
+    color: yellow;
+   }
+   .lista-cabecalho {
+   display:flex;
+   justify-content: space-around;   
+   }
+   .secao{
+    background-image: linear-gradient(#993FDF, #993FDF);
+    color: #BD67FF;
+   }
+   
